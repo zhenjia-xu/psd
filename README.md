@@ -1,8 +1,8 @@
 # Unsupervised Discovery of Parts, Structure, and Dynamics  
 
-[Zhenjia Xu](https://www.zhenjiaxu.com)\*, [Zhijian Liu](http://zhijianliu.com)\*, [Chen Sun](http://chensun.me), [Kevin Murphy](http://www.cs.ubc.ca/~murphyk/), [William T. Freeman](http://billf.mit.edu/), [Joshua B. Tenenbaum](http://web.mit.edu/cocosci/josh.html), [Jiajun Wu](http://jiajunwu.com/).
+This repository contains pre-trained models and testing code for PSD presented at ICLR 2019.
 
-[Paper](http://psd.csail.mit.edu/papers/psd_iclr.pdf) / [Project Page](http://psd.csail.mit.edu)
+[http://psd.csail.mit.edu](http://psd.csail.mit.edu)
 
 ![Teaser Image](http://psd.csail.mit.edu/images/psd.png)
 
@@ -53,4 +53,4 @@ The results will be presented in ```./demo/index.html```.
 }
 ```
 
-For any questions, please contact Zhenjia Xu (xuzhenjia@cs.columbia.edu) and Zhijian Liu (zhijian@mit.edu).
+For any questions, please contact Zhenjia Xu (xuzhenjia@cs.columbia.edu).
