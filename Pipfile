@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+autopep8 = "*"
+
+[packages]
+imageio = "*"
+opencv-python = "*"
+torch = "*"
+tensorboard = "*"
+argparse = "*"
+tqdm = "*"
+matplotlib = "*"
+dominate = "*"
+
+[requires]
+python_version = "3.7"
